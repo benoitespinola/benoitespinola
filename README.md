@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently a Doctoral Researcher in the Marine Dynamics group at the Finnish Meterological Institute.
+- 🔭 I’m currently a Doctoral Researcher in the [Marine Dynamics group](https://en.ilmatieteenlaitos.fi/marine-dynamics-group) at the [Finnish Meterological Institute](https://en.ilmatieteenlaitos.fi/ "FMI").
 - 🌱 I’m currently learning best practices in Git(Hub).
 - 👯 I’m looking to collaborate on Machine Learning-based surrogate modelling.
 - 🤔 I’m looking for help with best practices in Git(Hub) and Python programming.
